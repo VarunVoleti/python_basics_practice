@@ -1,5 +1,5 @@
-🐍 Python Fundamentals – Complete Basics Repository
-📌 Overview
+# 🐍 Python Fundamentals – Complete Basics Repository
+## 📌 Overview
 
 This repository contains my structured learning journey through Python fundamentals, covering core programming concepts required for data analysis, automation, and software development.
 
@@ -21,8 +21,8 @@ Logical reasoning in code
 
 Every concept is clearly explained in comments within the code for better understanding and revision.
 
-🧠 Topics Covered
-1️⃣ Data Types
+## 🧠 Topics Covered
+### 1️⃣ Data Types
 
 File: datatypes.py
 
@@ -58,7 +58,7 @@ Handling built-in function shadowing
 
 Data type casting
 
-2️⃣ Operators in Python
+### 2️⃣ Operators in Python
 
 File: operators.py
 
@@ -86,7 +86,7 @@ Using math module functions
 
 Understanding memory vs value comparison
 
-3️⃣ Conditional Statements
+### 3️⃣ Conditional Statements
 
 File: statements.py
 
@@ -118,7 +118,7 @@ Decision making
 
 Clean conditional structuring
 
-4️⃣ Loops & Iteration
+### 4️⃣ Loops & Iteration
 
 File: for_loops.py
 
@@ -148,7 +148,7 @@ Power calculations
 
 Dictionary traversal
 
-🔎 Key Programming Concepts Strengthened
+### 🔎 Key Programming Concepts Strengthened
 
 Problem-solving using logic
 
@@ -162,10 +162,61 @@ Iteration techniques
 
 Real-world scenario simulation
 
-🛠 Technologies Used
+
+### 5️⃣ Control Statements
+
+break
+
+continue
+
+pass
+
+else with loops
+
+### 6️⃣ List Comprehension
+
+Filtering conditions
+
+Cleaner & more efficient iteration
+
+Replacing traditional loop logic with concise expressions
+
+### 🛠 Technologies Used
 
 Python 3
 
 Built-in functions
 
 math module
+
+### 🧠 Key Skills Developed
+
+Strong understanding of Python core syntax
+
+Logical thinking & control flow design
+
+Working with different data structures
+
+Writing clean iteration logic
+
+Understanding memory references (is)
+
+Data filtering & transformation fundamentals
+
+
+
+### 🚀 Why This Matters
+
+These fundamentals form the backbone for:
+
+📊 Data Analysis (Pandas, NumPy)
+
+📈 Data Visualization
+
+🤖 Automation Scripts
+
+🧮 Algorithmic Problem Solving
+
+🗄️ Backend & Data Engineering workflows
+
+Mastering these basics ensures writing efficient, readable, and scalable Python code.
